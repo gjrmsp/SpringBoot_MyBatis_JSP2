@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootMyBatisJsp2Application {
+public class SpringBootMybatisJspApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMyBatisJsp2Application.class, args);
+		SpringApplication.run(SpringBootMybatisJspApplication.class, args);
 	}
-
 }
