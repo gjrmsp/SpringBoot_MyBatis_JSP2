@@ -17,6 +17,10 @@
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-taglibs</artifactId>
+		</dependency>
 		<!-- spring-boot-starter-security -->
 		<dependency>
     		<groupId>org.springframework.boot</groupId>
